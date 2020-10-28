@@ -2,6 +2,7 @@
 ## Assignment 3 - data visualisation
 
 **'data_l' file**: the data set used for the artefact.
+
 **'code for a3.ipynb' file**: the code sequence.
 The code sequence does not allow the bar chart races to be shown in that file. The bar chart races produced from the code can be viewed via the **'barchart1.mp4', 'barchart2.mp4' and 'barchart3.mp4' files.** These files show the bar chart races produced from the code during the editing, optimising and trial and error process. This process through code can be seen through the code sequence in the **'code for a3.ipynb' file.**
 
