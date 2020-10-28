@@ -1,7 +1,7 @@
 # code-artefact
 ## Assignment 3 - data visualisation
 
-**'data_l' file**: the data set used for the artefact.
+**'data_l.csv' file**: the data set used for the artefact.
 
 **'code for a3.ipynb' file**: the code sequence.
 
