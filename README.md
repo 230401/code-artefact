@@ -23,4 +23,4 @@ These files show the bar chart races produced from the code during the editing, 
 
 **Barchart3** conveys more optimisations with colour palette, orientation, duration of the visualistion and number of bars. This bar chart was beginning to look how I wanted the artefact to appear, however slight changes needed to be made with the colour palette choice as there were duplicate colours appearing on the graph and the duration seemed slightly too quick.
 
-**The finished artefact**: optimised and completed was chnaged through the colour palette used where no duplicate colours appeared on the graph making it more visually appealing. The opacity of the colours were altered and the duration of the video was edited for a longer duration time.
+**The finished artefact**: optimised and completed was changed through the colour palette used where no duplicate colours appeared on the graph making it more visually appealing. The opacity of the colours were altered and the duration of the video was edited for a longer duration time.
